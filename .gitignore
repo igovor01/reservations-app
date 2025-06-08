@@ -1,0 +1,11 @@
+# Java
+reservations/target/
+reservations/.mvn/
+
+# Node
+reservations-web/node_modules/
+reservations-web/dist/
+
+# General
+.DS_Store
+.env
